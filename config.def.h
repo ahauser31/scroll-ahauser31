@@ -14,8 +14,8 @@ struct rule rules[] = {
 	{"\031",        SCROLL_UP,    1},	/* mouse wheel up */
 	{"\005",        SCROLL_DOWN,  1},	/* mouse wheel Down */
 	/* additional binsings */
-	{"k",           SCROLL_UP,    1},	/* mouse wheel up */
-	{"j",           SCROLL_DOWN,  1},	/* mouse wheel Down */
-	{"u",           SCROLL_UP,    20},	/* mouse wheel up */
-	{"d",           SCROLL_DOWN,  20},	/* mouse wheel Down */
+	//{"k",           SCROLL_UP,    1},	/* mouse wheel up */
+	//{"j",           SCROLL_DOWN,  1},	/* mouse wheel Down */
+	//{"u",           SCROLL_UP,    20},	/* mouse wheel up */
+	//{"d",           SCROLL_DOWN,  20},	/* mouse wheel Down */
 };
